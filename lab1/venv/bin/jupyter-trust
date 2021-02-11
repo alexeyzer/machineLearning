@@ -1,4 +1,4 @@
-#!/Users/alexzudin/PycharmProjects/DataAnalytics/venv/bin/python
+#!/Users/alexzudin/PycharmProjects/DataAnalytics/lab1/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
